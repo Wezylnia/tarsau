@@ -1,0 +1,4 @@
+Bu birinci test dosyasidir.
+Merhaba Dunya!
+Sistem Programlama dersi icin ornek metin.
+1234567890
