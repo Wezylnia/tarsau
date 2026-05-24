@@ -1,0 +1,4 @@
+Ikinci test dosyasi.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+Ozel karakterler: !@#$%^&*()

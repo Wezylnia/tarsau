@@ -1,0 +1,4 @@
+Ucuncu dosya - farkli uzunlukta satirlar iceriyor.
+Kisa.
+Bu biraz daha uzun bir satirdir ve amaci farkli boyutlarda dosyalar ile test etmektir.
+Son satir.
