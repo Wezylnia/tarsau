@@ -357,10 +357,13 @@ int extract_archive(const char *archive_file, const char *output_dir)
             return 1;
         }
 
-        printf("Cikariliyor: %s\n", records[i].filename);
     }
 
     fclose(fp);
-    printf("Arsiv basariyla acildi.\n");
+    if (output_dir) {
+        printf("%s dizininde dosyalar acildi.\n", output_dir);
+    } else {
+        printf("Dosyalar gecerli dizinde acildi.\n");
+    }
     return 0;
 }

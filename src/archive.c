@@ -194,6 +194,6 @@ int create_archive(char *input_files[], int count, const char *output_file)
         remove(output_file);
         return 1;
     }
-    printf("Arsiv olusturuldu: %s\n", output_file);
+    printf("Dosyalar birlestirildi.\n");
     return 0;
 }
